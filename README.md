@@ -343,6 +343,13 @@ Explore top DeFi platforms and tools that make decentralized finance easy, secur
       <td style="padding:8px; border:none;">Analytics tools</td>
       <td style="padding:8px; border:none;">MultiChain</td>
     </tr>
+    <tr style="background-color:#2C2C2C;">
+      <td style="padding:8px; border:none;"><a href="https://deepbluealpha.io/">Deep Blue Alpha</a></td>
+      <td style="padding:8px; border:none; min-width:100px; white-space:nowrap;">9.3 /10</td>
+      <td style="padding:8px; border:none;">Free</td>
+      <td style="padding:8px; border:none;">Whale Tracker</td>
+      <td style="padding:8px; border:none;">Ethereum</td>
+    </tr>
     </tbody>
     </table>
     
